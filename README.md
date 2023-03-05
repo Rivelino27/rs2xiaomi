@@ -23,3 +23,5 @@ persistent_bottom_nav_bar: ^5.0.2
   path_provider: ^2.0.11
   image_picker: ^0.8.6
   flutter_barcode_scanner: ^2.0.0
+
+ativar modo de desenvolvedor para rodar app no windows
